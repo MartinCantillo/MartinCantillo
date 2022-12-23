@@ -15,6 +15,7 @@ I am a system engineer student based in colombia , passionate about learning eve
 
 
 ### Databases
+#### Relational 
 - SQL
 - MSQL
 - Oracle
