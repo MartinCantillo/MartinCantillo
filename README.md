@@ -12,6 +12,7 @@ I am a system engineer student based in colombia , passionate about learning eve
 
 ### Frameworks
 - Spring Boot with java
+- Angular
 
 
 ### Databases
