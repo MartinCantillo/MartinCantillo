@@ -8,9 +8,9 @@ I am a system engineer student based in colombia , passionate about learning eve
 ### Languajes
 - Java 
 - SQL
--Python
--JavaScript
--TypeScript
+- Python
+- JavaScript
+- TypeScript
 
 ### Frameworks
 - Spring Boot with java
