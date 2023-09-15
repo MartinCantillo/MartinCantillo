@@ -11,10 +11,12 @@ I am a system engineer student based in colombia , passionate about learning eve
 - Python
 - JavaScript
 - TypeScript
+- Dart
 
 ### Frameworks
 - Spring Boot with java
 - Angular
+- Flutter
 
 
 ### Databases
