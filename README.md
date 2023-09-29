@@ -17,6 +17,7 @@ I am a system engineer student based in colombia , passionate about learning eve
 - Spring Boot with java
 - Angular
 - Flutter
+- Flask
 
 
 ### Databases
