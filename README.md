@@ -10,7 +10,6 @@ I am a system engineer student based in colombia , passionate about learning eve
 - SQL
 - Python
 - JavaScript
-- TypeScript
 - Dart
 
 ### Frameworks
