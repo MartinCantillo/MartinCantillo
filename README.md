@@ -23,7 +23,4 @@ I'm a system engineering student based in Colombia, passionate about continuous 
 - ![MSQL](https://img.shields.io/badge/MSQL-%2314354C.svg?style=flat-square&logo=mysql&logoColor=white)
 - ![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white)
 
-### Other
-- [GitHub](https://github.com/) (Check out my projects!)
 
-Feel free to connect and collaborate! 🚀
