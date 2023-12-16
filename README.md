@@ -1,26 +1,20 @@
-# 😎About Me 
+😎 About Me
+I'm a system engineering student based in Colombia, passionate about continuous learning in the field of software development.
 
-I am a system engineer student based in colombia , passionate about learning every day software development 
-
-##  💻 Tech Stack
-
-
-### Languajes
-- Java 
-- SQL
-- Python
-- JavaScript
-- Dart
-
-### Frameworks
-- Spring Boot with java
-- Angular
-- Flutter
-- Flask
-
-
-### Databases
-#### Relational 
-- SQL
-- MSQL
-- Oracle
+💻 Tech Stack
+Languages
+Java
+SQL
+Python
+JavaScript
+Dart
+Frameworks
+Spring Boot (Java)
+Angular
+Flutter
+Flask
+Databases
+Relational
+SQL
+MSQL
+Oracle
