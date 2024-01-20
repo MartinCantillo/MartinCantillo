@@ -53,14 +53,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-
 <details>
   <summary><h3>🔥 Streak Stats</h3></summary>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight" alt="Streak Stats" />
   </p>
 </details>
+
+
 <p align="center"><img src="https://profile-counter.glitch.me/%7BMartinCantillo%7D/count.svg" alt="visitor badge" width="30%"></p>
 
   
