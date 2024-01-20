@@ -57,13 +57,12 @@ Here are some ideas to get you started:
 
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/MartinCantillo">
-    <img alt="MartinCantillo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MartinCantillo&custom_title=MartinCantillo's%20Contribution%20Graph&theme=react-dark" />
-  </a>
-  <br/>
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
 </details>
 
   
