@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+### 🔥 Streak Stats
 <p align="center">
   <a href="https://github.com/MartinCantillo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MartinCantillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-###  &nbsp;<summary><h3>🔥 Streak Stats</h3></summary>
+### 🔥 Streak Stats
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight" alt="Streak Stats" />
   </p>
