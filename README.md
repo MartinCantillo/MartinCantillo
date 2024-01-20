@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 
 
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
