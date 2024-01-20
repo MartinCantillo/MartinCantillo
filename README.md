@@ -48,11 +48,14 @@ Here are some ideas to get you started:
 
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
   <a href="https://github.com/MartinCantillo">
     <img alt="MartinCantillo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MartinCantillo&custom_title=MartinCantillo's%20Contribution%20Graph&theme=react-dark" />
   </a>
   <br/>
+</details>
+
   
   
