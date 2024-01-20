@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 
 
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
+<details>
+  <summary><h3>🔥 Streak Stats</h3></summary>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight" alt="Streak Stats" />
+  </p>
 </details>
+
 
   
   
