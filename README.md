@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Martin Cantillo  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Developer;Mobile%20|%20Backend%20|%20Frontend%20; Architecture%20| Self-taught%20| Engineering%20| Coding&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Developer;Mobile%20|%20Frontend%20|%20Backend%20;Architecture%20|%20Self-taught%20|%20Engineering%20|%20Coding&center=true&width=500&height=50"></a>
 </p>
 
 <!--
