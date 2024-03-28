@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/MartinCantillo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MartinCantillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MartinCantillo&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MartinCantillo&layout=compact&langs_count=12&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
@@ -61,12 +61,7 @@ Here are some ideas to get you started:
   </p>
 <br>
 <br>
-### 📊 &nbsp;GitHub Top Languages
-<p align="center">
-  <a href="https://github.com/MartinCantillo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCantillo&layout=compact&theme=algolia&langs_count=8&count_private=true" alt="Top Languages" />
-  </a>
-</p>
+
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BMartinCantillo%7D/count.svg" alt="visitor badge" width="30%"></p>
