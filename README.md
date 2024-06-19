@@ -1,22 +1,8 @@
-<h1 align="center">Hi , I'm Martin Cantillo  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Martin Cantillo <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;.NET +Developer;Mobile%20|%20Frontend%20|%20Backend;%20Coding%20|%20Self-taught%20|%20Engineering%20|%20Design&center=true&width=507&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;.NET+Developer;Mobile%20|%20Frontend%20|%20Backend;%20Coding%20|%20Self-taught%20|%20Engineering%20|%20Design&center=true&width=507&height=50"></a>
 </p>
-
-<!--
-**azizovrafael/azizovrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
@@ -24,8 +10,6 @@ Here are some ideas to get you started:
 ![Dart](https://img.shields.io/badge/Dart-175C2?style=flat&logo=dart&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-
-
 
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
@@ -36,12 +20,6 @@ Here are some ideas to get you started:
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 
-
-
-
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/MartinCantillo">
@@ -51,15 +29,11 @@ Here are some ideas to get you started:
 </p>
 
 ### 🔥 Streak Stats
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight" alt="Streak Stats" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight" alt="Streak Stats" />
+</p>
+
 <br>
 <br>
-
-
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BMartinCantillo%7D/count.svg" alt="visitor badge" width="30%"></p>
-
-  
-  
