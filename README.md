@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Martin <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+.NET+Developer;Mobile%20|%20Frontend%20|%20Backend;%20Coding%20|%20Self-taught%20|%20Engineering%20|%20Design&center=true&width=507&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Full+Stack+Developer;Mobile%20|%20Frontend%20|%20Backend;%20Coding%20|%20Self-taught%20|%20Engineering%20|%20Design&center=true&width=507&height=50"></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -15,7 +15,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
