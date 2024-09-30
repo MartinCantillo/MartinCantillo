@@ -7,7 +7,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,dotnet,typescript,docker,spring,angular,flutter,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,python,flask" />
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
