@@ -1,74 +1,74 @@
 <h1 align="center">
-  Hi, I'm Martin Cantillo 
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+  Martin Cantillo
 </h1>
 
+<h3 align="center">
+  DevOps & Cloud Engineer · Azure · Kubernetes (AKS) · Cloud-Native Architectures
+</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cloud+%26+Platform+Engineering;Azure+|+Kubernetes+AKS;CI%2FCD+|+Docker+|+Helm;Cloud-Native+Architectures&center=true&width=650&height=50">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MartinCantillo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### ☁️ About Me
+### Professional Summary
 
-DevOps / Cloud Engineer with a strong foundation in software engineering and backend development.  
-I specialize in **cloud-native architectures**, CI/CD automation, and Kubernetes-based platforms on **Azure**.
+DevOps & Cloud Engineer with a strong background in **software engineering** and **backend development**, specialized in designing and operating **cloud-native architectures on Azure**.
 
-I design and standardize **Docker images**, build **CI/CD pipelines with Azure DevOps**, and deploy microservices to **AKS** using **Helm**, managing multiple environments (QA & Production).
+I build and maintain **CI/CD pipelines with Azure DevOps**, standardize **Docker images** for backend and frontend applications, and deploy microservices to **Azure Kubernetes Service (AKS)** using **Helm**, managing **multi-environment deployments (QA & Production)**.
 
-My background in **Java (Spring Boot), .NET, and Node.js** allows me to effectively bridge development and operations, delivering scalable, secure, and maintainable systems.
+My experience in **Java (Spring Boot), .NET, and Node.js** enables effective collaboration between development and operations teams, ensuring scalable, secure, and maintainable platforms.
 
 ---
 
-### 🛠 Tech Stack
+### Core Competencies
 
-#### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,helm,git,github,gitlab" />
+- Cloud-Native Architecture & Kubernetes Design  
+- CI/CD Automation (Azure DevOps)  
+- Containerization & Image Standardization (Docker)  
+- Kubernetes Deployments & Packaging (Helm)  
+- Multi-Environment Release Strategies (QA / Production)  
+- Microservices & Backend Engineering  
+
+---
+
+### Technology Stack
+
+#### Cloud & Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,helm" />
 </p>
 
-#### CI/CD & Automation
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+#### CI/CD & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
 </p>
 
-#### Backend & Development
-<p align="center">
+#### Backend & Software Engineering
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,python,flask" />
 </p>
 
-#### Frontend & Mobile (background)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,flutter" />
-</p>
-
 #### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics
-<p align="center">
-  <a href="https://github.com/MartinCantillo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MartinCantillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MartinCantillo&layout=compact&langs_count=12&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
+### GitHub Analytics
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MartinCantillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCantillo&layout=compact&langs_count=10&theme=algolia" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MartinCantillo/count.svg" alt="visitor badge" width="30%">
+### Contribution Activity
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=algolia" alt="Contribution streak" />
 </p>
