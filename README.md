@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Java Backend Engineer · Spring Boot · Microservices · Kubernetes (AKS) · Azure Cloud
+  Java Backend Engineer · Spring Boot · Microservices · AWS · Kubernetes · Docker · CI/CD
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Java Backend Engineer with experience building **scalable microservices** using 
 
 I specialize in developing backend systems focused on performance, scalability, and maintainability, applying modern software architecture principles.
 
-Additionally, I have strong experience in **cloud and DevOps practices**, working with **Docker, Kubernetes (AKS), and Azure**, deploying and managing distributed systems in production environments, and implementing **CI/CD pipelines**.
+Additionally, I have strong experience in **cloud and DevOps practices**, working with **AWS and Azure**, as well as **Docker and Kubernetes**, deploying and managing distributed systems in production environments, and implementing **CI/CD pipelines**.
 
 My background allows me to understand the full lifecycle of applications — from development to production — enabling efficient and reliable software delivery.
 
@@ -28,10 +28,10 @@ My background allows me to understand the full lifecycle of applications — fro
 
 - Java Backend Development (Spring Boot, REST APIs, Microservices)  
 - Cloud-Native Applications & Distributed Systems  
-- Kubernetes (AKS) & Container Orchestration  
+- Kubernetes & Container Orchestration  
 - CI/CD Automation  
 - Docker & Helm  
-- Azure Cloud Infrastructure  
+- Cloud Platforms (AWS, Azure)  
 
 ---
 
@@ -44,7 +44,7 @@ My background allows me to understand the full lifecycle of applications — fro
 
 #### Cloud & Platform
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,helm" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,helm" />
 </p>
 
 #### CI/CD & Version Control
