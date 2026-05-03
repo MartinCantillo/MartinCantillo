@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  DevOps & Cloud Engineer · Azure · Kubernetes (AKS) · Cloud-Native Architectures
+  Java Backend Engineer · Spring Boot · Microservices · Kubernetes (AKS) · Azure Cloud
 </h3>
 
 <p align="center">
@@ -14,26 +14,33 @@
 
 ### Professional Summary
 
-DevOps & Cloud Engineer with a strong background in **software engineering** and **backend development**, specialized in designing and operating **cloud-native architectures on Azure**.
+Java Backend Engineer with experience building **scalable microservices** using **Spring Boot** and designing **cloud-native applications**.
 
-I build and maintain **CI/CD pipelines with Azure DevOps**, standardize **Docker images** for backend and frontend applications, and deploy microservices to **Azure Kubernetes Service (AKS)** using **Helm**, managing **multi-environment deployments (QA & Production)**.
+I specialize in developing backend systems focused on performance, scalability, and maintainability, applying modern software architecture principles.
 
-My experience in **Java (Spring Boot), .NET, and Node.js** enables effective collaboration between development and operations teams, ensuring scalable, secure, and maintainable platforms.
+Additionally, I have strong experience in **cloud and DevOps practices**, working with **Docker, Kubernetes (AKS), and Azure**, deploying and managing distributed systems in production environments, and implementing **CI/CD pipelines**.
+
+My background allows me to understand the full lifecycle of applications — from development to production — enabling efficient and reliable software delivery.
 
 ---
 
 ### Core Competencies
 
-- Cloud-Native Architecture & Kubernetes Design  
-- CI/CD Automation (Azure DevOps)  
-- Containerization & Image Standardization (Docker)  
-- Kubernetes Deployments & Packaging (Helm)  
-- Multi-Environment Release Strategies (QA / Production)  
-- Microservices & Backend Engineering  
+- Java Backend Development (Spring Boot, REST APIs, Microservices)  
+- Cloud-Native Applications & Distributed Systems  
+- Kubernetes (AKS) & Container Orchestration  
+- CI/CD Automation  
+- Docker & Helm  
+- Azure Cloud Infrastructure  
 
 ---
 
 ### Technology Stack
+
+#### Backend & Software Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
 #### Cloud & Platform
 <p>
@@ -46,16 +53,16 @@ My experience in **Java (Spring Boot), .NET, and Node.js** enables effective col
   <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
 </p>
 
-#### Backend & Software Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,python,flask" />
-</p>
-
 #### Databases
 <p>
-  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
+
+#### Other
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,cs,dotnet" />
 </p>
 
 ---
