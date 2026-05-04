@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Java Backend Engineer · Spring Boot · Microservices · AWS · Kubernetes · Docker · CI/CD
+  DevOps / Cloud Engineer · AWS · Kubernetes · Terraform · Docker · CI/CD · Helm · Java (Spring Boot)
 </h3>
 
 <p align="center">
@@ -14,43 +14,45 @@
 
 ### Professional Summary
 
-Java Backend Engineer with experience building **scalable microservices** using **Spring Boot** and designing **cloud-native applications**.
+DevOps / Cloud Engineer with a strong backend foundation in Java, specialized in building, deploying, and operating **scalable cloud-native systems**.
 
-I specialize in developing backend systems focused on performance, scalability, and maintainability, applying modern software architecture principles.
+Experience designing and managing **distributed microservices architectures** using **Spring Boot**, running on **Kubernetes** and **Docker** in cloud environments.
 
-Additionally, I have strong experience in **cloud and DevOps practices**, working with **AWS and Azure**, as well as **Docker and Kubernetes**, deploying and managing distributed systems in production environments, and implementing **CI/CD pipelines**.
+Hands-on experience with **AWS (and Azure)**, provisioning infrastructure using **Terraform**, and implementing robust **CI/CD pipelines** to automate build, test, and deployment workflows.
 
-My background allows me to understand the full lifecycle of applications — from development to production — enabling efficient and reliable software delivery.
+Strong understanding of **infrastructure as code, cloud-native principles, and system reliability**, with the ability to troubleshoot across the full stack (application + infrastructure).
+
+Background in both **monolithic and microservices architectures**, applying the right approach based on business and scalability requirements.
 
 ---
 
 ### Core Competencies
 
-- Java Backend Development (Spring Boot, REST APIs, Microservices)  
-- Cloud-Native Applications & Distributed Systems  
+- Cloud & DevOps Engineering (AWS, Terraform, CI/CD)  
 - Kubernetes & Container Orchestration  
-- CI/CD Automation  
 - Docker & Helm  
-- Cloud Platforms (AWS, Azure)  
+- Infrastructure as Code (Terraform)  
+- Cloud-Native Systems & Distributed Architectures  
+- Java Backend (Spring Boot, REST APIs, Microservices)  
 
 ---
 
 ### Technology Stack
 
-#### Backend & Software Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
 #### Cloud & Platform
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,helm" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,helm,terraform" />
 </p>
 
 #### CI/CD & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+</p>
+
+#### Backend & Software Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 #### Databases
