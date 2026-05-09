@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  DevOps / Cloud Engineer · AWS · Kubernetes · Terraform · Docker · CI/CD · Helm · Java (Spring Boot)
+  Java Backend Engineer · Spring Boot · Microservices · AWS · Kubernetes · Docker · Terraform · CI/CD
 </h3>
 
 <p align="center">
@@ -14,30 +14,37 @@
 
 ### Professional Summary
 
-DevOps / Cloud Engineer with a strong backend foundation in Java, specialized in building, deploying, and operating **scalable cloud-native systems**.
+Java Backend Engineer specialized in building scalable backend systems and cloud-native microservices using Java and Spring Boot.
 
-Experience designing and managing **distributed microservices architectures** using **Spring Boot**, running on **Kubernetes** and **Docker** in cloud environments.
+Experience designing, developing, deploying, and maintaining distributed microservices architectures running on Kubernetes and Docker environments.
 
-Hands-on experience with **AWS (and Azure)**, provisioning infrastructure using **Terraform**, and implementing robust **CI/CD pipelines** to automate build, test, and deployment workflows.
+Hands-on experience with AWS and Azure cloud platforms, implementing Infrastructure as Code (Terraform) and CI/CD pipelines to automate build, test, and deployment workflows.
 
-Strong understanding of **infrastructure as code, cloud-native principles, and system reliability**, with the ability to troubleshoot across the full stack (application + infrastructure).
+Strong understanding of backend architecture, REST APIs, cloud-native systems, containerized applications, and system reliability, with the ability to troubleshoot across both application and infrastructure layers.
 
-Background in both **monolithic and microservices architectures**, applying the right approach based on business and scalability requirements.
+Background working with both monolithic and microservices architectures, applying the right approach based on scalability and business requirements.
 
 ---
 
 ### Core Competencies
 
-- Cloud & DevOps Engineering (AWS, Terraform, CI/CD)  
-- Kubernetes & Container Orchestration  
-- Docker & Helm  
+- Java Backend Development  
+- Spring Boot & REST APIs  
+- Microservices Architecture  
+- Cloud-Native Applications  
+- AWS & Cloud Infrastructure  
+- Kubernetes & Docker  
 - Infrastructure as Code (Terraform)  
-- Cloud-Native Systems & Distributed Architectures  
-- Java Backend (Spring Boot, REST APIs, Microservices)  
+- CI/CD Automation  
 
 ---
 
 ### Technology Stack
+
+#### Backend & Software Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" />
+</p>
 
 #### Cloud & Platform
 <p>
@@ -50,11 +57,6 @@ Background in both **monolithic and microservices architectures**, applying the 
   <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
 </p>
 
-#### Backend & Software Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
 #### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -62,22 +64,30 @@ Background in both **monolithic and microservices architectures**, applying the 
   <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
-#### Other
+#### Other Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,flask,cs,dotnet" />
 </p>
 
 ---
 
-### GitHub Analytics
-<p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MartinCantillo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCantillo&layout=compact&langs_count=10&theme=algolia" />
-</p>
+### Software Engineering Principles
+
+✔ Object-Oriented Programming (OOP)  
+✔ SOLID Principles  
+✔ RESTful API Design  
+✔ Distributed Systems  
+✔ Clean Architecture  
+✔ Scalable Backend Development  
+✔ Cloud-Native Design  
+✔ CI/CD & DevOps Practices  
 
 ---
 
-### Contribution Activity
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCantillo&theme=algolia" alt="Contribution streak" />
-</p>
+### Currently Focused On
+
+- Building scalable Java microservices with Spring Boot  
+- Kubernetes & container orchestration  
+- Cloud infrastructure with AWS & Terraform  
+- CI/CD automation and DevOps practices  
+- Designing reliable distributed systems  
